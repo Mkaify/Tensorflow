@@ -1,0 +1,107 @@
+Project 1: Linear Regression with TensorFlow 2
+Project 2: Logistic Regression Classifier
+Project 3: Multilayer Perceptron from Scratch
+Project 4: Training with GradientTape
+Project 5: Custom Loss and Metrics
+Project 6: Batch Normalization Demo
+Project 7: Learning Rate Scheduling
+Project 8: Early Stopping & Model Checkpointing
+Project 9: Binary Classification on Tabular Data
+
+Project 10: Multi-Class Classification on Fashion MNIST
+Project 11: Image Normalization Pipeline
+Project 12: Train/Validation/Test Split Utility
+Project 13: TensorBoard Logging Visualizer
+Project 14: TensorFlow Datasets (tfds) Loader
+Project 15: TensorFlow Hub Pretrained Model Demo
+Project 16: CNN for Handwritten Digit Recognition (MNIST)
+Project 17: Image Augmentation with tf.image
+Project 18: CIFAR-10 Image Classification
+Project 19: Custom CNN for Face Mask Detection
+Project 20: Transfer Learning with MobileNet
+Project 21: Fine-Tune InceptionV3
+Project 22: Object Detection with TF Hub SSD
+Project 23: Real-Time Object Detection with Webcam
+Project 24: Semantic Segmentation with DeepLabV3+
+Project 25: OCR with CNN + CTC Loss (Handwritten Text Recognition)
+Project 26: Image Colorization using U-Net
+Project 27: Style Transfer (Fast Neural Transfer)
+Project 28: Super-Resolution with EDSR
+Project 29: Image Denoising Autoencoder
+Project 30: Depth Estimation from Monocular Images
+Project 31: Text Classification with IMDB
+Project 32: Tokenization with SubwordTextEncoder
+Project 33: Bidirectional LSTM for Sentiment Analysis
+Project 34: Word Embeddings with Word2Vec (Custom Training)
+Project 35: Sequence-to-Sequence Translator (English–French)
+Project 36: GRU-based Language Model
+Project 37: Named Entity Recognition with Bi-LSTM
+Project 38: Attention Mechanism Implementation
+Project 39: Transformer Encoder for Text Embeddings
+Project 40: Text Summarization with Transformers
+Project 41: Chatbot using Seq2Seq + Attention
+
+Project 42: Question Answering with BERT
+
+Project 43: Fake News Detection (TF-IDF + DNN)
+Project 44: Topic Modeling using LDA + TensorFlow
+Project 45: Spelling Correction Model
+Project 46: Temperature Forecasting with LSTM
+Project 47: Stock Price Prediction using RNN
+Project 48: Multivariate Time Series Prediction
+Project 49: Time Series Anomaly Detection
+Project 50: Sequence Prediction with Conv1D
+Project 51: Traffic Flow Forecasting
+Project 52: Weather Forecasting Ensemble
+Project 53: Air Quality Prediction using LSTM
+Project 54: Speech Emotion Recognition (MFCC + DNN)
+Project 55: Real-Time Emotion Recognition from Microphone Audio
+Project 56: Speaker Identification using MFCC + LSTM
+Project 57: Music Genre Classification using CNN
+Project 58: Audio Scene Classification (UrbanSound8K)
+Project 59: Speech Command Recognition with CNN
+
+Project 60: Emotion Classification from Text (BERT)
+
+Project 61: Question Generation from Text (T5)
+Project 62: Automatic Text Summarization with T5
+Project 63: Paraphrase Generation with T5
+Project 64: Grammar Correction with T5
+Project 65: Text Simplification using T5
+Project 66: Headline Generation with T5
+Project 67: Dialogue Generation with DialoGPT
+Project 68: Intent Classification with BERT
+Project 69: Zero-shot Text Classification with BART/NLI
+Project 70: Few-shot Classification with GPT-style Prompting
+Project 71: Text Embeddings with Sentence Transformers
+Project 72: Semantic Search with Sentence Embeddings
+Project 73: FAQ Matching System
+Project 74: Multilingual Text Similarity with LaBSE
+Project 75: Language Detection using Transformer Embeddings
+Project 76: Named Entity Recognition using spaCy + BERT Embeddings
+Project 77: Coreference Resolution using spaCy
+Project 78: Relation Extraction with spaCy + Pattern Matching
+Project 79: Document Classification with TF-IDF + SVM
+Project 80: Spam Detection with Naive Bayes
+Project 81: News Topic Classification with DistilBERT
+Project 82: Multilabel Text Classification with Sigmoid Output
+Project 83: Custom Text Classifier with HuggingFace Trainer API
+Project 84: Contrastive Learning for Sentence Embeddings
+Project 85: Text-to-SQL with Transformers
+Project 86: Table-to-Text Generation with T5
+Project 87: Text-to-Image Prompt Generation
+Project 88: Image-to-Text with CLIP
+
+Project 89: Object Detection with YOLOv5 and Transformers
+
+Project 90: Style Transfer with Pretrained VGG19
+Project 91: Object Detection with Hugging Face and Transformers
+Project 92: Image Captioning with BLIP
+Project 93: Facial Recognition with OpenCV and Deep Learning
+Project 94: Real-Time Object Detection with OpenCV
+Project 95: Image Super-Resolution using Pretrained Models
+Project 96: Image-to-Image Translation with GANs
+Project 97: Video Frame Interpolation with Deep Learning
+Project 98: Real-Time Video Style Transfer
+Project 99: Image Captioning with Transformers
+Project 100: Text-to-Image Generation with DALL·E
